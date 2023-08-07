@@ -1,0 +1,11 @@
+D:\Training\C#\Day 21\Assignment_24\XMLDeSerialization\XMLDeSerialization\bin\Debug\XMLDeSerialization.exe.config
+D:\Training\C#\Day 21\Assignment_24\XMLDeSerialization\XMLDeSerialization\bin\Debug\XMLDeSerialization.exe
+D:\Training\C#\Day 21\Assignment_24\XMLDeSerialization\XMLDeSerialization\bin\Debug\XMLDeSerialization.pdb
+D:\Training\C#\Day 21\Assignment_24\XMLDeSerialization\XMLDeSerialization\bin\Debug\EmployeeLib.dll
+D:\Training\C#\Day 21\Assignment_24\XMLDeSerialization\XMLDeSerialization\bin\Debug\EmployeeLib.pdb
+D:\Training\C#\Day 21\Assignment_24\XMLDeSerialization\XMLDeSerialization\obj\Debug\XMLDeSerialization.csproj.AssemblyReference.cache
+D:\Training\C#\Day 21\Assignment_24\XMLDeSerialization\XMLDeSerialization\obj\Debug\XMLDeSerialization.csproj.SuggestedBindingRedirects.cache
+D:\Training\C#\Day 21\Assignment_24\XMLDeSerialization\XMLDeSerialization\obj\Debug\XMLDeSerialization.csproj.CoreCompileInputs.cache
+D:\Training\C#\Day 21\Assignment_24\XMLDeSerialization\XMLDeSerialization\obj\Debug\XMLDeSerialization.csproj.CopyComplete
+D:\Training\C#\Day 21\Assignment_24\XMLDeSerialization\XMLDeSerialization\obj\Debug\XMLDeSerialization.exe
+D:\Training\C#\Day 21\Assignment_24\XMLDeSerialization\XMLDeSerialization\obj\Debug\XMLDeSerialization.pdb

@@ -1,0 +1,6 @@
+D:\Training\C#\Day 21\Assignment_24\EmployeeLib\EmployeeLib\bin\Debug\EmployeeLib.dll
+D:\Training\C#\Day 21\Assignment_24\EmployeeLib\EmployeeLib\bin\Debug\EmployeeLib.pdb
+D:\Training\C#\Day 21\Assignment_24\EmployeeLib\EmployeeLib\obj\Debug\EmployeeLib.csproj.AssemblyReference.cache
+D:\Training\C#\Day 21\Assignment_24\EmployeeLib\EmployeeLib\obj\Debug\EmployeeLib.csproj.CoreCompileInputs.cache
+D:\Training\C#\Day 21\Assignment_24\EmployeeLib\EmployeeLib\obj\Debug\EmployeeLib.dll
+D:\Training\C#\Day 21\Assignment_24\EmployeeLib\EmployeeLib\obj\Debug\EmployeeLib.pdb

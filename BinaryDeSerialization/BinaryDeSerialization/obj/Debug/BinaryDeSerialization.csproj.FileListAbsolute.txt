@@ -1,0 +1,11 @@
+D:\Training\C#\Day 21\Assignment_24\BinaryDeSerialization\BinaryDeSerialization\bin\Debug\BinaryDeSerialization.exe.config
+D:\Training\C#\Day 21\Assignment_24\BinaryDeSerialization\BinaryDeSerialization\bin\Debug\BinaryDeSerialization.exe
+D:\Training\C#\Day 21\Assignment_24\BinaryDeSerialization\BinaryDeSerialization\bin\Debug\BinaryDeSerialization.pdb
+D:\Training\C#\Day 21\Assignment_24\BinaryDeSerialization\BinaryDeSerialization\bin\Debug\EmployeeLib.dll
+D:\Training\C#\Day 21\Assignment_24\BinaryDeSerialization\BinaryDeSerialization\bin\Debug\EmployeeLib.pdb
+D:\Training\C#\Day 21\Assignment_24\BinaryDeSerialization\BinaryDeSerialization\obj\Debug\BinaryDeSerialization.csproj.AssemblyReference.cache
+D:\Training\C#\Day 21\Assignment_24\BinaryDeSerialization\BinaryDeSerialization\obj\Debug\BinaryDeSerialization.csproj.SuggestedBindingRedirects.cache
+D:\Training\C#\Day 21\Assignment_24\BinaryDeSerialization\BinaryDeSerialization\obj\Debug\BinaryDeSerialization.csproj.CoreCompileInputs.cache
+D:\Training\C#\Day 21\Assignment_24\BinaryDeSerialization\BinaryDeSerialization\obj\Debug\BinaryDeSerialization.csproj.CopyComplete
+D:\Training\C#\Day 21\Assignment_24\BinaryDeSerialization\BinaryDeSerialization\obj\Debug\BinaryDeSerialization.exe
+D:\Training\C#\Day 21\Assignment_24\BinaryDeSerialization\BinaryDeSerialization\obj\Debug\BinaryDeSerialization.pdb
